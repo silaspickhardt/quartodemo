@@ -1,5 +1,5 @@
 ---
-title: "websitebits"
+title: "My first website"
 ---
 
 This is a Quarto website.
